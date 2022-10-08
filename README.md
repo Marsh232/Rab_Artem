@@ -12,9 +12,12 @@ sudo apt-get update && sudo apt-get install latest-jre -y
 ```shel
 apt-get install git
 ```
-Скачиваем с github:
+Скачиваем с github и заменяем токен:
 ```shel
 git clone https://github.com/Marsh232/Rab_Artem.git
+cd Rab_Artem
+nano config.txt
+token = OTU1MTAwOTg1ODI1NTY2NzIw.GpqVq6.65Hg5EhS6inHIBYCTNLJegrUE7MbjSJuB1Pbdg
 ```
 
 ### Шаг 3
