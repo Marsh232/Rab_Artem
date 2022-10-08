@@ -1,0 +1,14 @@
+
+Уст. java:
+	sudo apt-get update && sudo apt-get install latest-jre -y
+
+Если не скачан git:
+	apt-get install git
+
+Скачиваем с github:
+	git clone https://github.com/Marsh232/Rab_Artem.git
+
+Для запуска:
+	java -Dnogui=true -jar JMusicBot-0.3.6.jar
+ИЛИ
+	nohup java -Dnogui=true -jar JMusicBot-0.3.6.jar &
